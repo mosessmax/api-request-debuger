@@ -2,7 +2,7 @@
 
 # Features will include:
 
-- [ ] Intercept and log requests made via `requests` library
+- [x] Intercept and log requests made via `requests` library
 - [ ] Replay individual requests from log
 - [ ] Compare original and replay response
 
@@ -21,6 +21,8 @@
 - [ ] Generate regression test cases
 - [ ] Export reports/documentation
 
+<!-- ## Testing -->
 
-## Testing
+## Not conclusion (words from one wise god)
 
+i want to do more with this module, probably when I get bored next. special thanks to Vibes and Insha-Allah. please if you find any issue or have a cool feature idea do send in a PR. (now on to the next side project or maybe a nap.)
